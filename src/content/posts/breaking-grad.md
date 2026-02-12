@@ -2,7 +2,7 @@
 title: Breaking Grad
 published: 2026-02-13
 description: "Prototype pollution to RCE in a Node.js CTF challenge."
-tags: [ctf, machine, researching]
+tags: [ctf, htb, prototype pollution]
 category: CTF
 draft: false
 ---
