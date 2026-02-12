@@ -1,5 +1,5 @@
 ---
-title: The Silent Transformation: A Deep Dive into Mutation XSS (mXSS) (unfinished)
+title: "The Silent Transformation: A Deep Dive into Mutation XSS (mXSS) (unfinished)"
 published: 2026-02-13
 description: "Research notes on Mutation XSS, parser mutations, and sanitizer bypass patterns."
 tags: [researching, xss, web]
