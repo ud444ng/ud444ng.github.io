@@ -2,7 +2,7 @@
 title: Baby Sql
 published: 2026-02-13
 description: "Error-based SQL injection via sprintf() format-specifier abuse."
-tags: [ctf, machine, researching]
+tags: [ctf, machine, sql]
 category: CTF
 draft: false
 ---
@@ -12,6 +12,7 @@ draft: false
 - Name: Baby SQL
 - Difficulty: Medium
 - Focus: SQL Injection (Error-based)
+
 
 ## Vulnerability
 
