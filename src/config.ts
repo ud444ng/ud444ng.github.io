@@ -63,9 +63,9 @@ export const profileConfig: ProfileConfig = {
 			url: "https://github.com/ud444ng",
 		},
 		{
-			name: "Repository",
-			icon: "fa6-brands:github",
-			url: "https://github.com/ud444ng/ud444ng.github.io",
+			name: "Discord (@ud444ng)",
+			icon: "fa6-brands:discord",
+			url: "https://discord.com",
 		},
 	],
 };
