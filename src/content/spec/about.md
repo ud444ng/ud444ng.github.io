@@ -1,6 +1,2 @@
 # About
-offensive security practitioner
-
-- ctf
-- machine
-- researching
+Passionate about the art of exploitation, I am an Offensive Security Professional with a primary focus on web-tier vulnerabilities. My journey involves a continuous cycle of competitive CTFs, machine penetration, and independent security research. I use this platform to document my findings and share technical walkthroughs of the complex challenges I solve.
